@@ -3,10 +3,8 @@ package wafflejuice.core;
 import wafflejuice.core.member.Grade;
 import wafflejuice.core.member.Member;
 import wafflejuice.core.member.MemberService;
-import wafflejuice.core.member.MemberServiceImpl;
 import wafflejuice.core.order.Order;
 import wafflejuice.core.order.OrderService;
-import wafflejuice.core.order.OrderServiceImpl;
 
 public class OrderApp {
 

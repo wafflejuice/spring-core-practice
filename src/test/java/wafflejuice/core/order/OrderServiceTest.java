@@ -7,7 +7,6 @@ import wafflejuice.core.AppConfig;
 import wafflejuice.core.member.Grade;
 import wafflejuice.core.member.Member;
 import wafflejuice.core.member.MemberService;
-import wafflejuice.core.member.MemberServiceImpl;
 
 public class OrderServiceTest {
 
