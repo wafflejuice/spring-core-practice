@@ -1,7 +1,8 @@
-package wafflejuice.core.discount;
+package wafflejuice.core.singleton.discount;
 
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Test;
+import wafflejuice.core.discount.RateDiscountPolicy;
 import wafflejuice.core.member.Grade;
 import wafflejuice.core.member.Member;
 

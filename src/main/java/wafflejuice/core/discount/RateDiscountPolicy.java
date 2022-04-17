@@ -1,8 +1,10 @@
 package wafflejuice.core.discount;
 
+import org.springframework.stereotype.Component;
 import wafflejuice.core.member.Grade;
 import wafflejuice.core.member.Member;
 
+@Component
 public class RateDiscountPolicy implements DiscountPolicy {
 
     private int discountPercent = 10;
