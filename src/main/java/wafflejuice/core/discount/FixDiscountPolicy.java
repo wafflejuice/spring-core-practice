@@ -4,6 +4,7 @@ import org.springframework.stereotype.Component;
 import wafflejuice.core.member.Grade;
 import wafflejuice.core.member.Member;
 
+@Component
 public class FixDiscountPolicy implements DiscountPolicy {
 
     private int discountFixAmount = 1000;
